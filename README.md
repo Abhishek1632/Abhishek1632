@@ -2,7 +2,7 @@
 - 👀 I’m interested in Coding I have coding then I fully charged
 - 🌱 I’m currently learning  C# 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me @AbhiDaundkar41
+- 📫 How to reach me 
 
 <!---
 Abhishek1632/Abhishek1632 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
